@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+
+I am a data engineer who is passionate about learning new and sharing knowledge.
+
+💬 You can check out my projects and also you can find me on Linkedin
+
 <!--
 **ozgunakin/ozgunakin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
