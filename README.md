@@ -1,20 +1,24 @@
 ### Hi there 👋
 
+<a href="https://www.linkedin.com/in/ozgunakin/">
+  <img align="left" alt="Ozgun's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
 
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=ozgunakin.ozgunakin)
+
+<br />
 
 I am a data engineer who is passionate about learning new and sharing knowledge.
 
 💬 You can check out my projects and also you can find me on Linkedin (https://www.linkedin.com/in/ozgunakin/)
-<a href="https://www.linkedin.com/in/ozgunakin/">
-  <img align="right" alt="Ozgun's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
+
 
 
 ### 📈 GitHub Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ozgunakin&show_icons=true&theme=radical)
   
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=ozgunakin.ozgunakin)
+
 
 <!--
 **ozgunakin/ozgunakin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
