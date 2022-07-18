@@ -1,8 +1,5 @@
 <h2 align="center">👋 Hello! I'm Ozgun.</h2>
 
-## Hi there 👋
-
-
 Welcome to my page! 
 
 I'm Data Engineer who is passionate about Cloud and Big Data technologies, currently living in Turkey.
