@@ -9,7 +9,7 @@ I am a data engineer who is passionate about learning new and sharing knowledge.
 
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=ozgunakin.ozgunakin)
 
-</h2>📫 How to Reach Me<h2>
+<h2>📫 How to Reach Me</h2>
 
 <a href="https://www.linkedin.com/in/ozgunakin" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="mailto:ozgunakin2@gmail.com" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
