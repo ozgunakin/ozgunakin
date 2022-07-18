@@ -1,7 +1,8 @@
 ## Hi there 👋
 <br />
 
-I am a data engineer who is passionate about learning new and sharing knowledge.
+Welcome to my page! 
+I'm Data Engineer who is passionate about Cloud and Big Data technologies, currently living in Turkey.
 
 <h2>GitHub Stats</h2>
 <p><img src="https://github-readme-stats.vercel.app/api?username=ozgunakin&amp;show_icons=true" alt="GitHub Stats"></p>
