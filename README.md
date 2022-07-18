@@ -19,10 +19,10 @@ You can also find me on Linkedin
 
 ### 📫 How to reach me:
 - You can send me an [email](mailto:ozgunakin2@gmail.com)
-- You can also find me on Linkedin
-<a href="https://www.linkedin.com/in/ozgunakin/">
+- You can also find me on Linkedin <a href="https://www.linkedin.com/in/ozgunakin/">
   <img float="right" alt="Ozgun's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
+
 
 <!--
 **ozgunakin/ozgunakin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
