@@ -1,14 +1,12 @@
 ### Hi there 👋
-You can also find me on Linkedin
-<a href="https://www.linkedin.com/in/ozgunakin/">
-  <img float="right" alt="Ozgun's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-
-
 <br />
 
 I am a data engineer who is passionate about learning new and sharing knowledge.
 
+You can also find me on Linkedin
+<a href="https://www.linkedin.com/in/ozgunakin/">
+  <img float="right" alt="Ozgun's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
 
 
 
