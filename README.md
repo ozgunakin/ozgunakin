@@ -8,8 +8,6 @@ I am a data engineer who is passionate about learning new and sharing knowledge.
 <p><img src="https://github-readme-stats.vercel.app/api?username=ozgunakin&amp;show_icons=true" alt="GitHub Stats"></p>
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ozgunakin&show_icons=true&theme=radical)
-
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=ozgunakin.ozgunakin)
 
 ### 📫 How to Reach Me:
