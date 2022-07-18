@@ -13,17 +13,14 @@ I am a data engineer who is passionate about learning new and sharing knowledge.
 ### 📈 GitHub Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ozgunakin&show_icons=true&theme=radical)
- 
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=ozgunakin.ozgunakin)
 
-### 📫 How to reach me:
+
 <a href="https://www.linkedin.com/in/ozgunakin/">
   <img align="left" alt="Ozgun's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=ozgunakin.ozgunakin)
 
-<a>
-  <img align="left" alt="Ozgun's Gmail" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" />
-</a>
+### 📫 How to reach me:
 ozgunakin2@gmail.com
 
 <!--
