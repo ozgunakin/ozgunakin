@@ -6,7 +6,9 @@
 
 I am a data engineer who is passionate about learning new and sharing knowledge.
 
-💬 You can check out my projects and also you can find me on Linkedin (https://www.linkedin.com/in/ozgunakin/)
+💬 You can check out my projects and also you can find me on Linkedin <a href="https://www.linkedin.com/in/ozgunakin/">
+  <img float="right" alt="Ozgun's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
 
 
 
@@ -17,9 +19,7 @@ I am a data engineer who is passionate about learning new and sharing knowledge.
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=ozgunakin.ozgunakin)
 
 ### 📫 How to reach me:
-ozgunakin2@gmail.com / <a href="https://www.linkedin.com/in/ozgunakin/">
-  <img float="right" alt="Ozgun's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
+ozgunakin2@gmail.com
 
 <!--
 **ozgunakin/ozgunakin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
