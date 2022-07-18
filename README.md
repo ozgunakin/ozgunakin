@@ -4,8 +4,6 @@
   <img align="left" alt="Ozgun's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=ozgunakin.ozgunakin)
-
 <br />
 
 I am a data engineer who is passionate about learning new and sharing knowledge.
@@ -17,7 +15,8 @@ I am a data engineer who is passionate about learning new and sharing knowledge.
 ### 📈 GitHub Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ozgunakin&show_icons=true&theme=radical)
-  
+ 
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=ozgunakin.ozgunakin)
 
 
 <!--
