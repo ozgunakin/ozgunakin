@@ -5,6 +5,13 @@ I am a data engineer who is passionate about learning new and sharing knowledge.
 
 💬 You can check out my projects and also you can find me on Linkedin (https://www.linkedin.com/in/ozgunakin/)
 
+
+### 📈 
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ozgunakin&show_icons=true&theme=radical)
+  
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=ozgunakin.ozgunakin)
+
 <!--
 **ozgunakin/ozgunakin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
