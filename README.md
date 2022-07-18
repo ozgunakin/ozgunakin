@@ -4,6 +4,9 @@
 I am a data engineer who is passionate about learning new and sharing knowledge.
 
 ### 📈 GitHub Stats
+<h2>GitHub Stats</h2>
+<p><img src="https://github-readme-stats.vercel.app/api?username=ozgunakin&amp;show_icons=true" alt="GitHub Stats"></p>
+
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ozgunakin&show_icons=true&theme=radical)
 
