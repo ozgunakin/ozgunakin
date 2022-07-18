@@ -17,7 +17,7 @@ You can also find me on Linkedin
 
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=ozgunakin.ozgunakin)
 
-### 📫 How to reach me:
+### 📫 How to Reach Me:
 - You can send me an [email](mailto:ozgunakin2@gmail.com)
 - You can also find me on Linkedin <a href="https://www.linkedin.com/in/ozgunakin/">
   <img float="right" alt="Ozgun's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
