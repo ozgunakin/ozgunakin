@@ -1,3 +1,5 @@
+<h2 align="center">👋 Hello! I'm Ozgun.</h2>
+
 ## Hi there 👋
 
 
