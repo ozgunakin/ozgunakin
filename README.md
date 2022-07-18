@@ -18,8 +18,7 @@ You can also find me on Linkedin
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=ozgunakin.ozgunakin)
 
 ### 📫 How to reach me:
-ozgunakin2@gmail.com
-
+[email](mailto:ozgunakin2@gmail.com)
 <!--
 **ozgunakin/ozgunakin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
