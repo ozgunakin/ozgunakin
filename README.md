@@ -1,6 +1,6 @@
 <h2 align="center">👋 Hello! I'm Ozgun.</h2>
 
-Welcome to my page! 
+<h4 align="center"> Welcome to my page! </h4>
 
 <h4 align="center"> I'm Data Engineer who is passionate about Cloud and Big Data technologies, currently living in Turkey.</h4>
 
