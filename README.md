@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-<a href="https://www.linkedin.com/in/ozgunakin/">
-  <img align="left" alt="Ozgun's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
+
 
 <br />
 
@@ -17,6 +15,13 @@ I am a data engineer who is passionate about learning new and sharing knowledge.
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ozgunakin&show_icons=true&theme=radical)
  
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=ozgunakin.ozgunakin)
+
+### 📫 How to reach me:
+<a href="https://www.linkedin.com/in/ozgunakin/">
+  <img align="left" alt="Ozgun's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+
+ozgunakin2@gmail.com
 
 
 <!--
