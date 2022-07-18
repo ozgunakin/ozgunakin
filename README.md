@@ -8,6 +8,7 @@ I am a data engineer who is passionate about learning new and sharing knowledge.
 
 
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=ozgunakin.ozgunakin)
+![GitHub last commit](https://img.shields.io/github/last-commit/ozgunakin/ozgunakin)
 
 <h2>📫 How to Reach Me</h2>
 
