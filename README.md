@@ -1,7 +1,7 @@
 <h2 align="center">👋 Hello! I'm Ozgun.</h2>
 
 
-<h4 align="center"> I'm Data Engineer who is passionate about Cloud and Big Data technologies, currently living in Turkey.</h4>
+<p align="center"> I'm Data Engineer who is passionate about Cloud and Big Data technologies, currently living in Turkey.</p>
 
 
 
