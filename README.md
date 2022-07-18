@@ -1,7 +1,8 @@
 ## Hi there 👋
-<br />
+
 
 Welcome to my page! 
+
 I'm Data Engineer who is passionate about Cloud and Big Data technologies, currently living in Turkey.
 
 <h2>GitHub Stats</h2>
