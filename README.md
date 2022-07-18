@@ -1,12 +1,15 @@
 ### Hi there 👋
 
+<a href="https://www.linkedin.com/in/ozgunakin/">
+  <img align="left" alt="Ozgun's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
 
 I am a data engineer who is passionate about learning new and sharing knowledge.
 
 💬 You can check out my projects and also you can find me on Linkedin (https://www.linkedin.com/in/ozgunakin/)
 
 
-### 📈 
+### 📈 GitHub Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ozgunakin&show_icons=true&theme=radical)
   
