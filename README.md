@@ -23,7 +23,9 @@ I am a data engineer who is passionate about learning new and sharing knowledge.
 
 ozgunakin2@gmail.com
 
-
+<a href="ozgunakin2@gmail.com">
+  <img align="left" alt="Ozgun's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/gmail.svg" />
+</a>
 <!--
 **ozgunakin/ozgunakin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
