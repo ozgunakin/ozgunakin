@@ -12,7 +12,7 @@
   
 <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>  
 
-<a href="https://spark.apache.org" target="_blank"> <img src="https://spark.apache.org/images/spark-logo-rev.svg" alt="python" width="40" height="40"/>
+<a href="https://spark.apache.org" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Apache_Spark_logo.svg/1200px-Apache_Spark_logo.svg.png" alt="python" width="40" height="40"/>
 </a>  
 
 <a href="https://www.elastic.co" target="_blank"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a> 
