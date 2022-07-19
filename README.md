@@ -26,6 +26,8 @@
 <a href="https://kafka.apache.org" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Apache_kafka.svg/640px-Apache_kafka.svg.png" alt="kafka" width="40" height="40"/> </a>
   
   
+<a href="https://hadoop.apache.org" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRH_cHcB5wZ_hiE5PgEj5is3W_UvblLqKVYw&usqp=CAU" alt="hadoop" width="40" height="40"/> </a>
+ 
 <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
 
 <a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> 
