@@ -67,10 +67,6 @@ currently: wiring LLM agents straight into the data platform
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logoColor=white)
 
-## 🧰 Side projects
-
-- **[AI Office](https://github.com/ozgunakin/ai-office-releases)**: one place for AI coding sessions, notes and team memory across Claude Code, Codex and Claude Desktop
-
 <details>
 <summary><b>📚 Big data guides from the early days</b></summary>
 
