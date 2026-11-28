@@ -2,23 +2,10 @@
 
 # Özgün Akın
 
-**CTO @ [ADIN](https://adin.ai)**
-*Data platforms and AI agents, from raw API calls to production.*
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ozgunakin)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ozgunakin2@gmail.com)
 
 </div>
-
----
-
-## 🏗️ What I architect
-
-```text
- Ad platform APIs ──► ETL workers ──► ClickHouse ──► APIs ──► Web app
- (Meta, Google,       (ECS, Lambda,   (OLAP)          │
-  LinkedIn, CM360…)    EventBridge)                   └──► MCP servers ──► LLM agents
-```
 
 ## 🧠 Capabilities
 
