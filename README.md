@@ -12,14 +12,6 @@
 
 ---
 
-```yaml
-name:      Özgün Akın
-role:      CTO @ ADIN
-based_in:  Turkey
-stack:     [Python, ClickHouse, AWS, LLM agents]
-currently: wiring LLM agents straight into the data platform
-```
-
 ## 🏗️ What I architect
 
 ```text
